@@ -1,5 +1,5 @@
 # Destress-with-dog-pics
-Click [here](http://t.me/kawai_inu_generator_bot) to get kawai_inu_generator_bot in your telegram.
+Click [here](http://telegram.me/kawai_inu_generator_bot) to get kawai_inu_generator_bot in your telegram.
 
 You can type */get_doggo* to view random pictures of cute dogs.
 ## Requirements
