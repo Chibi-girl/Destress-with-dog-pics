@@ -7,7 +7,9 @@ You can type */get_doggo* to view random pictures of cute dogs.
 
 2. python-telegram bot
 ## Steps
-Open the command line interface and type these commands to get started
+Open the command line interface and type these commands to get started before you use the command for your bot.
+
+And do make sure you have a stable net connection!!
 
 >pip3 install python-telegram-bot
 
